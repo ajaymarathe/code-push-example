@@ -30,7 +30,7 @@ class App extends Component {
     return (
       <View>
         <Text> React-Native App </Text>
-        <Text> Code Push Example -4 </Text>
+        <Text> Code Push Example -7 </Text>
       </View>
     );
   }
